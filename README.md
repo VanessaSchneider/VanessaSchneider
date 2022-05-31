@@ -1,12 +1,10 @@
 Hello! 👋
 
-<!--
-**VanessaSchneider/VanessaSchneider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 
 - 👯 I’m looking to collaborate on anything, just reach out!
-- Main project Repositories: 
+- Main Projects:
+  - Read & Talk [link](https://github.com/VanessaSchneider/ReadChat)
 
 
