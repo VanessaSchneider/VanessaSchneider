@@ -4,6 +4,7 @@ Hello! 👋
 
 
 - 👯 I’m looking to collaborate on anything, just reach out!
+- [LinkedIn](https://www.linkedin.com/in/vanessa--schneider/)
 - Main Projects:
   - 📔 [Read & Talk](https://github.com/VanessaSchneider/ReadChat) | [demo](https://www.youtube.com/watch?v=yjcqcmxz5Qw)
   - 🧚‍♀️ [Kingdom Quest](https://github.com/VanessaSchneider/updated_final_project) | [demo](https://www.youtube.com/watch?v=wsTpSaMsxtU)
